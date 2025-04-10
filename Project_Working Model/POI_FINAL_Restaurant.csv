@@ -1,0 +1,11 @@
+fsq Id,Name,Address,Latitude,Longitude,Category ID,Distance,Popularity,Ratings,Total Ratings,Price($),Website
+3fd66200f964a5202fe81ee3,Gray's Papaya,"2090 Broadway (at W 72nd St), New York, NY 10023",40.778368,-73.981555,13058,1.0121858022492005,0.9990858662456111,8.1,904,131,http://www.grayspapaya.com
+5b592d9bde3bbf0039c7d8ea,Fleming by Le Bilboquet,"27 E 62nd St, New York, NY 10065",40.765526,-73.969431,13148,1.9554935281159593,0.9730995367003926,8.1,11,128,http://flemingbylebilboquet.com
+4ed825e98231efe38cad7306,El Aguila,"1634 Lexington Ave (103rd Street), New York, NY 10029",40.790613,-73.947674,13303,2.155495365459205,0.9978829493279039,8.1,116,194,http://elaguilanewyorkrestaurant.com/web_eng
+596f977c178a2a6534433e66,Vida Verde,"248 W 55th St, New York, NY 10019",40.764939,-73.983214,13009,2.2525131466762587,0.9898925892838593,8.1,154,107,http://vidaverdeny.com
+4a453e4cf964a520f1a71fe3,Empanada Mama,"765 9th Ave (btwn 51st & 52nd St), New York, NY 10019",40.764419,-73.988481,13133,2.5298961663488506,0.9943967756009391,8.9,1138,51,https://www.empmamanyc.com
+4bfc0f7ed6f2c9b6b9a64ec8,Blue & Gold Deli,"1075 1st Ave (E 59th St), New York, NY 10022",40.759511,-73.962338,13001,2.723789557016592,0.9856854964369559,8.4,8,226,
+57196183498efeaaa4043f3c,Dutch Fred's,"307 W 47th St (btwn 8th Ave & 9th Ave), New York, NY 10036",40.760875,-73.987817,13009,2.8337525420479945,0.9958656223381048,8.5,320,157,http://dutchfreds.com
+59d649f96bd36b7a7d994175,Hold Fast Kitchen and Spirits,"364 W 46th St (46th st and 9th ave), New York, NY 10036",40.760538,-73.990294,13068,2.9735288299250233,0.9804790891903683,8.9,71,177,https://www.holdfastnyc.com
+4af30de2f964a52026ea21e3,Clinton Gourmet Market,"648 10th Ave (46th), New York, NY 10036",40.761852,-73.993579,13039,3.0158060979066605,0.9727193401616354,8.0,21,71,https://www.beermenus.com/places/21365-clinton-gourmet-corp
+506e48ffe4b078ebe1c30a29,Bocca Di Bacco,"635 9th Ave (btwn W 44th & W 45th St), New York, NY 10036",40.760235,-73.991549,13025,3.059715786363071,0.9755843184509588,8.0,161,136,http://nycrg.com/bocca-di-bacco
